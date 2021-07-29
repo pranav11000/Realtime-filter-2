@@ -1,0 +1,34 @@
+body
+{
+    background-image: url("family\ doodle.jpg");
+    background-position: center;
+    background-size: cover;
+}
+h3{
+    font-size: 25px !important;
+    color: white;
+    text-align:center ;
+}
+h2{
+margin: 50px;
+text-align: center;
+color: white;
+}
+h4{
+    margin: 30px;
+    text-align: center;
+    color:green; 
+}
+h4{
+    margin: 10px;
+    text-align: center;
+    color:green; 
+}
+canvas{
+text-align:center;
+margin-right: 300px;
+}
+.header_div{
+background-color: gray;
+}
+
